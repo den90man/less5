@@ -1,4 +1,4 @@
-# 1
+#### 1
 # funk = open('less5.txt', 'w')
 # line = input('Введите текст\n')
 # while line:
